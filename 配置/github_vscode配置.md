@@ -12,6 +12,10 @@
 git config --global user.name ywwAHU
 git config --global user.email ywwAHU
 
-#
+# 3. 文件上传
+git init
+git add .  # 增加文件 
+git commit -m "注释"  # 连接
+git push   # 上传
 ```
 
